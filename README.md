@@ -46,7 +46,13 @@ Before running the project, make sure the following tools are installed:
 
 ## Installation
 
-Clone the repository and install dependencies:
+Clone the repository:
+
+```bash
+git clone https://github.com/DavidMA1897/david-tavarez-sdet-take-home.git
+```
+
+Install dependencies:
 
 ```bash
 npm install
